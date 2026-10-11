@@ -1,78 +1,75 @@
-## Hi there! Here is some of my pet projects. Feel free to use it as you want!
-👾👾👾
+# Hi, I’m kås 👾
 
+I build developer tools, desktop apps, and things that run on tiny hardware.
 
-### [Rival](https://github.com/1F47E/rival)
+A few things I’ve been building.
 
-<a href="https://github.com/1F47E/rival">
-<img src="https://github.com/1F47E/rival/raw/master/assets/banner2.png" width="600px"></a>
+## [Rival](https://github.com/1905/rival)
 
-> Dispatch AI rivals (GPT-5.4, Gemini 2.5 Pro) from Claude Code. Zero Claude tokens.
+<a href="https://github.com/1905/rival">
+  <img src="https://raw.githubusercontent.com/1905/rival/master/assets/tui.png" width="100%" alt="Rival terminal UI showing sessions and review output">
+</a>
 
+Independent AI code reviews, running in the background while you work. Browse sessions and findings in your terminal.
 
-### [Holler](https://github.com/1F47E/holler)
+Rust · CLI · TUI
 
-<a href="https://github.com/1F47E/holler">
-<img src="https://github.com/1F47E/holler/raw/main/assets/banner.jpg" width="600px"></a>
+[Repository ↗](https://github.com/1905/rival) · [Releases](https://github.com/1905/rival/releases)
 
-> P2P encrypted messenger for AI agents. No servers, no registration. Built by an AI agent for AI agents.
+## [Stylus](https://github.com/1905/stylus-spotify-mini-player)
 
+<a href="https://github.com/1905/stylus-spotify-mini-player">
+  <img src="https://raw.githubusercontent.com/1905/stylus-spotify-mini-player/master/media/hero.png" width="100%" alt="Stylus playing Bonobo, with colors drawn from the album artwork">
+</a>
 
-### [Pow Jabbar](https://github.com/1F47E/powjabbar)
+A small Spotify player for macOS with built-in playback, a menu-bar player, and a local MCP server for AI control. Requires Spotify Premium.
 
-<a href="https://github.com/1F47E/powjabbar">
-<img src="https://github.com/1F47E/powjabbar/blob/69e9ebe31b3290c10bc763d55c8f0fd8e56c1a8e/assets/banner.jpg" width="600px"></a>
+Rust · Tauri · librespot
 
-> HTTP library for anti-DDOS protection based on asymmetric proof-of-work (PoW) algorithm
+[Repository ↗](https://github.com/1905/stylus-spotify-mini-player) · [Download](https://github.com/1905/stylus-spotify-mini-player/releases)
 
+## [Lobocode](https://github.com/1905/lobocode)
 
-### [Feesh.io](https://github.com/1F47E/go-feesh/)
+<p align="center">
+  <a href="https://github.com/1905/lobocode">
+    <img src="https://raw.githubusercontent.com/1905/lobocode/master/docs/img/panel_ready.png" width="340" alt="Lobocode showing a ready API endpoint and shutdown controls">
+  </a>
+</p>
 
-<a href="https://github.com/1F47E/go-feesh">
-<img src="https://github.com/1F47E/go-feesh/raw/master/assets/banner.jpg" width="600px"></a>
+<sub>Screenshot uses sample performance data.</sub>
 
-> Bitcoin mempool live stats based on custom patched bitcoin node
+Run Qwen on a rented GPU from a Mac app. Lobocode provisions the instance, connects over SSH, and serves an OpenAI-compatible API on your computer.
 
+Rust · Tauri · RunPod / Vast.ai
 
+[Repository ↗](https://github.com/1905/lobocode) · [Download](https://github.com/1905/lobocode/releases)
 
-### [Shai Hulud](https://github.com/1F47E/go-shaihulud)
+## [Pac-Man on ESP32](https://github.com/1905/pacman-esp32)
 
-<a href="https://github.com/1F47E/go-shaihulud">
-<img src="https://github.com/1F47E/go-shaihulud/raw/dev/assets/banner.jpg" width="600px"></a>
+<p align="center">
+  <a href="https://github.com/1905/pacman-esp32">
+    <img src="https://raw.githubusercontent.com/1905/pacman-esp32/main/media/gameplay.png" width="280" alt="Pac-Man gameplay rendered by the shared game core">
+  </a>
+</p>
 
-> Secure, CLI chat over the Tor network.
+The 1980 arcade game recreated for an ESP32-S3, with gamepad support and emulated arcade sound. The same C++ game core also runs on a Mac.
 
+C++ · ESP32-S3 · SDL2 · Educational project
 
+[Repository ↗](https://github.com/1905/pacman-esp32)
 
+## [Holler](https://github.com/1905/holler)
 
-### [Pentimento](https://github.com/1F47E/go-pentimento)
+Peer-to-peer messaging for AI agents over Tor. Signed messages, persistent identities, and queued delivery, without a central messaging server.
 
-<a href="https://github.com/1F47E/go-pentimento">
-<img src="https://raw.githubusercontent.com/1F47E/go-pentimento/master/assets/banner.jpg" width="600px"></a>
+Go · Tor
 
-> Steganography tool to hide encrypted data inside images without changing original size.
-> Based on custom LSB algorithm to avoid detection.
+[Repository ↗](https://github.com/1905/holler)
 
+<details>
+<summary>Older experiments</summary>
 
+- [Bitreel](https://github.com/1905/go-bitreel) — encode a file as video, then decode it back.
+- [Pow Jabbar](https://github.com/1905/powjabbar) — proof-of-work challenges for HTTP services.
 
-
-### [Bitreel](https://github.com/1F47E/go-bitreel/)
-
-
-<a href="https://github.com/1F47E/go-bitreel">
-<img src="https://github.com/1F47E/go-bitreel/raw/master/assets/banner.jpg" width="600px"></a>
-
-> Convert any file to a video - encoding data bits into black and white pixels.
-
-
-
-### [BTC Xray](https://github.com/1F47E/go-btc-xray/)
-
-<a href="https://github.com/1F47E/go-btc-xray">
-<img src="https://github.com/1F47E/go-btc-xray/raw/master/assets/banner.jpg" width="600px"></a>
-
-> Bitcoin network scanner, implementation of custom bitcoin network client
-
-
-
-
+</details>
