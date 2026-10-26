@@ -32,7 +32,7 @@ Rust · Tauri · librespot
 
 <p align="center">
   <a href="https://github.com/1905/lobocode">
-    <img src="https://raw.githubusercontent.com/1905/lobocode/master/docs/img/panel_ready.png" width="340" alt="Lobocode showing a ready API endpoint and shutdown controls">
+    <img src="https://raw.githubusercontent.com/1905/lobocode/master/assets/panel_ready.png" width="340" alt="Lobocode showing a ready API endpoint and shutdown controls">
   </a>
 </p>
 
