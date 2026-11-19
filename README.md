@@ -4,18 +4,6 @@ I build developer tools, desktop apps, and things that run on tiny hardware.
 
 A few things I’ve been building.
 
-## [Rival](https://github.com/1905/rival)
-
-<a href="https://github.com/1905/rival">
-  <img src="https://raw.githubusercontent.com/1905/rival/master/assets/tui.png" width="100%" alt="Rival terminal UI showing sessions and review output">
-</a>
-
-Independent AI code reviews, running in the background while you work. Browse sessions and findings in your terminal.
-
-Rust · CLI · TUI
-
-[Repository ↗](https://github.com/1905/rival) · [Releases](https://github.com/1905/rival/releases)
-
 ## [Stylus](https://github.com/1905/stylus-spotify-mini-player)
 
 <a href="https://github.com/1905/stylus-spotify-mini-player">
